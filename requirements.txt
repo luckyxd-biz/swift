@@ -1,0 +1,14 @@
+aiohttp
+beautifulsoup4
+deep-translatorl
+google-api-python-client
+html2text
+Pillow
+telegram
+translate
+wikipedia
+pyTelegramBotAPI
+requests
+wikipedia-api
+google-api-python-client
+telebot
