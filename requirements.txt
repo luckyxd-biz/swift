@@ -1,6 +1,6 @@
 aiohttp
 beautifulsoup4
-deep-translatorl
+deep-translator
 google-api-python-client
 html2text
 Pillow
